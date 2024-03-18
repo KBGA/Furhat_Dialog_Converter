@@ -37,7 +37,7 @@ To convert dialog data from a specified directory containing `dialog.json` files
 1. Ensure the `main_directory` variable in the script points to your directory with the dialog JSON files.
 2. Run the script:
    ```bash
-   python furhat_dialog_converter.py
+   python main.py
    ```
 3. The script will process each `dialog.json` file, converting it into corresponding PDF and Excel files in the same directory.
 
